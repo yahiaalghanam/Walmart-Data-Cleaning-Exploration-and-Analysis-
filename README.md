@@ -172,3 +172,4 @@ CREATE TABLE IF NOT EXISTS sales(
 );
 ```
 ![Alt text](https://github.com/yahiaalghanam/Walmart-Data-Cleaning-and-Exploration-/blob/main/Overview.PNG)
+![Alt text](https://github.com/yahiaalghanam/Walmart-Data-Cleaning-and-Exploration-/blob/main/Customer%20behaviour.PNG)

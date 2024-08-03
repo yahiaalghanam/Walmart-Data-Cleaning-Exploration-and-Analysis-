@@ -171,3 +171,4 @@ CREATE TABLE IF NOT EXISTS sales(
     rating FLOAT(2, 1)
 );
 ```
+![Alt text](https://github.com/yahiaalghanam/Walmart-Data-Cleaning-and-Exploration-/blob/main/Overview.PNG)
